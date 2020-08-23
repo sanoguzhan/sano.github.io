@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d16df284-580d-44df-8704-47f0e3d66154" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/con_binary.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ml_algo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/youtube_pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_0709.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/IMG_6239 2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/San_picture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/San_picture_normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/San_picture_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/alexander-andrews--Bq3TeSBRdE-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lightbox-plus-jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gVFwlcliGoQQ8ez95FDZwfK492" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images/slider" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html?_ijt=38gn6pv0e892okt8pvtet8pq58" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/sanoguzhan.github.io/index.html?_ijt=38gn6pv0e892okt8pvtet8pq58" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16df284-580d-44df-8704-47f0e3d66154" name="Default Changelist" comment="" />
+      <created>1598192093422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598192093422</updated>
+      <workItem from="1598192094464" duration="1733000" />
+      <workItem from="1598193887059" duration="23000" />
+      <workItem from="1598193951922" duration="7842000" />
+      <workItem from="1598203969136" duration="9448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="-838" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598202324973">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="318" y="-838" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598202324973" />
+    <state x="574" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598209160218">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="574" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598209160218" />
+    <state width="1899" height="176" key="GridCell.Tab.0.bottom" timestamp="1598205017198">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.bottom/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598205017198" />
+    <state width="1899" height="176" key="GridCell.Tab.0.center" timestamp="1598205017196">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.center/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598205017196" />
+    <state width="1899" height="176" key="GridCell.Tab.0.left" timestamp="1598205017194">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.left/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598205017194" />
+    <state width="1899" height="176" key="GridCell.Tab.0.right" timestamp="1598205017197">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.0.right/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598205017197" />
+    <state width="1899" height="176" key="GridCell.Tab.1.bottom" timestamp="1598203938239">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.1.bottom/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938239" />
+    <state width="1899" height="176" key="GridCell.Tab.1.center" timestamp="1598203938235">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.1.center/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938235" />
+    <state width="1899" height="176" key="GridCell.Tab.1.left" timestamp="1598203938232">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.1.left/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938232" />
+    <state width="1899" height="176" key="GridCell.Tab.1.right" timestamp="1598203938238">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.1.right/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938238" />
+    <state width="1899" height="176" key="GridCell.Tab.2.bottom" timestamp="1598203938242">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.2.bottom/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938242" />
+    <state width="1899" height="176" key="GridCell.Tab.2.center" timestamp="1598203938240">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.2.center/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938240" />
+    <state width="1899" height="176" key="GridCell.Tab.2.left" timestamp="1598203938239">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.2.left/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938239" />
+    <state width="1899" height="176" key="GridCell.Tab.2.right" timestamp="1598203938241">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="176" key="GridCell.Tab.2.right/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598203938241" />
+    <state x="543" y="-785" width="586" height="490" key="find.popup" timestamp="1598194694348">
+      <screen x="-124" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="543" y="-785" width="586" height="490" key="find.popup/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598194694348" />
+  </component>
+</project>
