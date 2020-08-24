@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16df284-580d-44df-8704-47f0e3d66154" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <workItem from="1598193951922" duration="7842000" />
       <workItem from="1598203969136" duration="10179000" />
       <workItem from="1598258094558" duration="15000" />
-      <workItem from="1598295531324" duration="3167000" />
+      <workItem from="1598295531324" duration="3627000" />
     </task>
     <servers />
   </component>
@@ -60,10 +59,10 @@
       <screen x="-124" y="-1080" width="1920" height="1080" />
     </state>
     <state x="318" y="-838" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598202324973" />
-    <state x="574" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598209160218">
+    <state x="574" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598299291248">
       <screen x="-124" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="574" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598209160218" />
+    <state x="574" y="-786" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-124.-1080.1920.1080@-124.-1080.1920.1080" timestamp="1598299291248" />
     <state width="1899" height="176" key="GridCell.Tab.0.bottom" timestamp="1598205017198">
       <screen x="-124" y="-1080" width="1920" height="1080" />
     </state>
