@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16df284-580d-44df-8704-47f0e3d66154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/con_binary.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/images.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/microsoft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/ml_algo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/youtube_pic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lightbox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_0709.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_6239 2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/San_picture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/San_picture_normal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/San_picture_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/alexander-andrews--Bq3TeSBRdE-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/lightbox-plus-jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +46,9 @@
       <workItem from="1598192094464" duration="1733000" />
       <workItem from="1598193887059" duration="23000" />
       <workItem from="1598193951922" duration="7842000" />
-      <workItem from="1598203969136" duration="9448000" />
+      <workItem from="1598203969136" duration="10179000" />
+      <workItem from="1598258094558" duration="15000" />
+      <workItem from="1598295531324" duration="3167000" />
     </task>
     <servers />
   </component>
